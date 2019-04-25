@@ -1,0 +1,11 @@
+{
+    "updateUrl":"https://download.weilaiyule.top/tianshicheng/install.html",
+    "domainUrl":"http://mobile.newlovs.com",
+    "versions":
+    [
+        {
+            "version":1000,
+            "status":"release"
+        }
+    ]
+}
